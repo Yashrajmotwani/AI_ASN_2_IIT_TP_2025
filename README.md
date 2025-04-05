@@ -14,7 +14,11 @@
 ## For Python Files
 ### Command : python file_name.py
 
-## For Colab files ( .ipynb files )
+## For Colab files [ .ipynb files ]
 ### Simply upload the files to Google Colab and run them.
+
+# Note
+-------
+## For Branch and Bound (BnB) and Iterative Deepening A* (IDA*), the time taken may appear as 0 milliseconds due to the fast execution of iterations. For more accurate results, run the code in Google Colab.
 
 
