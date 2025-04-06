@@ -1,24 +1,27 @@
-# AI_ASN_2_IIT_TP_2025
+# AI ASSIGNMENT 2
 
-# Team Members
+## Team Members
 ---------------
-## Yashraj Motwani [ CS24M104 ]
-## M Yashwanth Kumar [ CS24M122 ]
+- **Yashraj Motwani [ CS24M104 ]**
 
-# Requirements
+- **M Yashwanth Kumar [ CS24M122 ]**
+
+## Requirements
 ---------------
-## Git should be installed on the system in order to clone the environment required for Hill Climbing and Simulated Annealing. [ only if python files are used ]
+**Git should be installed on the system in order to clone the environment required for Hill Climbing and Simulated Annealing. [ only if python files are used ]**
 
-# Steps To Run 
+## Steps To Run 
 ---------------
-## For Python Files
-### Command : python file_name.py
+### For Python Files
+```
+Command : python file_name.py
+```
 
-## For Colab files [ .ipynb files ]
-### Simply upload the files to Google Colab and run them.
+### For Colab Files [ .ipynb files ]
+**Simply upload the files to Google Colab and run them.**
 
-# Note
+## Note
 -------
-## For Branch and Bound (BnB) and Iterative Deepening A* (IDA*), the time taken may appear as 0 milliseconds due to the fast execution of iterations. For more accurate results, run the code in Google Colab.
+**For Branch and Bound (BnB) and Iterative Deepening A\* (IDA\*), the time taken may appear as 0 milliseconds due to the fast execution of iterations [in the system]. For more accurate results, run the code in Google Colab.**
 
 
