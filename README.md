@@ -14,7 +14,7 @@
 ---------------
 ### For Python Files
 ```
-Command : python file_name.py
+python file_name.py
 ```
 
 ### For Colab Files [ .ipynb files ]
